@@ -1,2 +1,2 @@
 # fonlog
-this is my final assignment to visualise call log data 
+Assignment to Android APP development Course in CSU
